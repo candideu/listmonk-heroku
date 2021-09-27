@@ -4,4 +4,4 @@ This repository is a Heroku Buildpack + button installer for [listmonk](https://
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/knadh/listmonk-heroku)
 
-Licensed under the MIT license.
+Licensed under the MIT license.. 
