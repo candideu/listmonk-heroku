@@ -1,6 +1,6 @@
 # listmonk Heroku installer
 
-v. 2.1.0
+v. 2.2.0
 
 This repository is a Heroku Buildpack + button installer for [listmonk](https://github.com/knadh/listmonk). It downloads and installs the latest binary release from the listmonk releases page.
 
